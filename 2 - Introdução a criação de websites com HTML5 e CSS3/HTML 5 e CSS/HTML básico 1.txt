@@ -1,9 +1,0 @@
-<!DOCTYPE html> //diz ao navegador o que estou escrevendo
-<html> //tag html
- <head> //metainformações que o navegador necessita, cabeçalho
-  <meta> //como o navegador faz o encode dos caracteres, pode ficar aberto sem a barra final
-  <title></title> //título da aba
-  </head>    //fecha o cabeçalho
-    <body> //conteúdo da página
-    </body> //fecha o corpo que contém o conteúdo da página
-</html> //fecha o elemento html
